@@ -2,3 +2,37 @@
     width: 65%;
     margin-bottom: 1%;
 }
+.logger{
+    color: rgb(19, 79, 130);
+}
+p{
+    color: #f4eae8;
+    font-weight: bolder;
+}
+.gradient-custom-2 {
+    /* fallback for old browsers */
+    background: #4ac6e2;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, #4ac6e2, #ef4162, #ef4162, #4ac6e2);
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #4ac6e2, #ef4162, #ef4162, #4ac6e2);
+    }
+    
+    @media (min-width: 768px) {
+    .gradient-form {
+    height: 100vh   ;
+    }
+    }
+    @media (min-width: 769px) {
+    .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    }
+    }
+  
+
+ #firstt, #first{
+    background-color: #4ac6e2;
+ }

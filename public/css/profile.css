@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(71 191 218);
+    color: rgb(255 255 255);
+}
+.mt-5{
+    margin-top: 1rem!important;
+}
+
+.form-control{
+    background-color: #fdfdfd;
+}
+select {
+   
+background-color: #4ac6e2;
+   
+border: 1px solid #ffffff;
+   
+color: white;
+}
+
+h5, .card-text{
+    color: rgb(0, 0, 0);
+}
